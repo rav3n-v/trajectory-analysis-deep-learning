@@ -11,5 +11,5 @@ for i in range(1,21):
     Combined_data = np.concatenate((input1, input2), axis=1)
     d[i]=Combined_data
 print(d)
-with open('sbd_values.pickle','wb')as f:
+with open('sbd_values.pickle', 'wb')as f:
     pickle.dump(d,f)

@@ -238,7 +238,7 @@ def SBD_get_values_in(a):
     SBD_values_bd = []
     SBD_values_fd = []
 
-    with open('encoded.pickle','rb') as f:
+    with open('encoded.pickle', 'rb') as f:
         encoded = pickle.load(f)
 
     target = []
@@ -314,7 +314,7 @@ def SBD_get_values_in_normalised(a):
     SBD_values_bd = []
     SBD_values_fd = []
 
-    with open('encoded.pickle','rb') as f:
+    with open('encoded.pickle', 'rb') as f:
         encoded = pickle.load(f)
 
     target = []
