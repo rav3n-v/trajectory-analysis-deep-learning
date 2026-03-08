@@ -70,7 +70,6 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Shell Script.Unnamed.executor": "Run",
-    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -338,7 +337,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716114024501</updated>
-      <workItem from="1772960124851" duration="1288000" />
+      <workItem from="1772960124851" duration="1607000" />
     </task>
     <servers />
   </component>
